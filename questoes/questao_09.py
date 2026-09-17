@@ -1,8 +1,3 @@
-#anterior = 0
-#proximo = 1
-#soma = anterior + proximo
-#anterior = proximo
-#proximo = soma
 def ler_inteiro(mensagem):
   while(True):
     try:
