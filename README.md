@@ -26,8 +26,8 @@ Repositório criado para disponibilizar a resolução da lista de exercícios av
 | **Questão 01** | ✅ Concluída |
 | **Questão 02** | ✅ Concluída |
 | **Questão 03** | ✅ Concluída |
-| **Questão 04** | ❌ Não iniciada |
-| **Questão 05** | ❌ Não iniciada |
+| **Questão 04** | ✅ Concluída |
+| **Questão 05** | ✅ Concluída |
 | **Questão 06** | ❌ Não iniciada |
 | **Questão 07** | ❌ Não iniciada |
 | **Questão 08** | ❌ Não iniciada |
