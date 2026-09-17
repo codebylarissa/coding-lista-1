@@ -23,9 +23,9 @@ Repositório criado para disponibilizar a resolução da lista de exercícios av
 
 | Questão | Status |
 | :---: | :---: |
-| **Questão 01** | ❌ Não iniciada |
-| **Questão 02** | ❌ Não iniciada |
-| **Questão 03** | ❌ Não iniciada |
+| **Questão 01** | ✅ Concluída |
+| **Questão 02** | ✅ Concluída |
+| **Questão 03** | ✅ Concluída |
 | **Questão 04** | ❌ Não iniciada |
 | **Questão 05** | ❌ Não iniciada |
 | **Questão 06** | ❌ Não iniciada |
