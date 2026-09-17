@@ -32,7 +32,7 @@ Repositório criado para disponibilizar a resolução da lista de exercícios av
 | **Questão 07** | ✅ Concluída |
 | **Questão 08** | ✅ Concluída |
 | **Questão 09** | ✅ Concluída |
-| **Questão 10** | ❌ Não iniciada |
+| **Questão 10** | ✅ Concluída |
 
 ---
 Feito com 💜 por **Larissa**  
