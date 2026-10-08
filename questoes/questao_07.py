@@ -7,25 +7,16 @@ def ler_inteiro(mensagem):
 
 n = ler_inteiro("Digite um número: ")
 
-answer = []
+def fizzBuzz(n):
+  for i in range(1, n + 1):
+    if i % 3 == 0 and i % 5 == 0:
+      print("FizzBuzz")
+    elif i % 3 == 0:
+      print("Fizz")
+    elif i % 5 == 0:
+      print("Buzz")
+    else:
+      print(i)
 
-#Adiciona os números interios
-for i in range(1, n+1):
-  answer.append(i)
 
-#Substitui os números caso a condição do if for verdadeira
-for i in range(len(answer)):
-  if (answer[i] % 3 == 0 and answer[i] % 5 == 0):
-    answer[i] = "FizzBuzz"
-  elif (answer[i] % 3 == 0):
-    answer[i] = "Fizz"
-  elif (answer[i] % 5 == 0):
-    answer[i] = "Buzz"
-
-#Transforma em String
-for i in range(len(answer)):
-  answer[i] = str(answer[i])
-
-#Exibe a lista em String
-for i in answer:
-  print(i)
+fizzBuzz(n)

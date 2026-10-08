@@ -10,5 +10,6 @@ def ler_inteiro(mensagem):
 
 x = ler_inteiro("Digite um número: ")
 
-for i in range(1, x + 1, 2): #Começa em 1 e pula de dois em dois
-    print(i)
+for i in range(1, x + 1): 
+    if i % 2 != 0:
+      print (i)
